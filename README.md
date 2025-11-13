@@ -39,3 +39,9 @@ Chrome이 PC에 설치되어 있어야 정상 작동합니다.
 profiles/ 폴더로 옮기기
 
 💡 파일명은 자동 인식되니 아무 이름이어도 됩니다.
+
+pip install PyQt5
+pip install pygetwindow
+pip install pyautogui
+pip install psutil
+pip install pywin32
